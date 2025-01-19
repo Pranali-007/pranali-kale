@@ -1,6 +1,8 @@
-hey pranali is welcoming you👋
-🔭 I’m currently persuing Engineering
-🌱 I’m currently learning new skill
+hey pranali is welcoming you,currently learning a python language,trying to create new project via python in upcomming days.
+<br>
+stay turn on......!
+
+
 
 
 <!--
